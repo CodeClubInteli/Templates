@@ -10,12 +10,27 @@ Nosso objetivo é garantir que toda a equipe trabalhe de forma colaborativa, org
 
 
 ## 📁 Estrutura do Repositório
+    /assets: Imagem de apoio para uso dos monitores (Banner e Logo)
 
     /Templates-CodeStart
         │
         ├── Plano-de-Aula.md → Modelo padrão para planos de aula
         ├── Conteudo-da-Aula.md → Modelo para adição do conteúdo escrito da aula
         ├── anexos/ → Pasta para adição de materiais úteis para as aulas. 
+
+    /Templates-CodeKids
+        │
+        ├── Plano-de-Aula.md → Modelo padrão para planos de aula
+        ├── Conteudo-da-Aula.md → Modelo para adição do conteúdo escrito da aula
+        ├── codigo_aula.py → Código da aula do Code Kids, em python.
+
+    /Templates-Docs
+        │
+        ├── Ata-Reuniao → Modelo padrão para as Atas de Reuniões
+        ├── Cronograma.md → Modelo de cronograma para os programas que serão executados.
+        ├── Feedback-Template.md → Template para Feedbacks dos monitores acerca dos programas que acontecem no clube.
+     
+
 
 
 ---
